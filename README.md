@@ -1,4 +1,5 @@
 # IMTC-Lab-2-Part-1
+This repo contains both parts for the lab, despite being called only part 1
 
 ## Part 1
 For part 1, I added two extra buttons and modified one to toggle all three windmills on and off, and the second to trigger both crossings.
